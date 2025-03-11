@@ -2,7 +2,7 @@ Summary:	A lil' TOML writer
 Summary(pl.UTF-8):	Malutki moduł do zapisu TOML
 Name:		python3-tomli_w
 Version:	1.0.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/tomli-w/
